@@ -1,26 +1,26 @@
 {
-  "name": "symphony-api",
-  "version": "0.1.3",
-  "description": "node implementation of the symphony api",
+  "name": "symphony-api-jeff-modified",
+  "version": "0.2.0",
+  "description": "jeff lam's slightly modified node implementation of the symphony api",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ondoher/symphony-api.git"
+    "url": "git+https://github.com/jefflam/symphony-node-binding.git"
   },
   "keywords": [
     "symphony",
     "node",
     "api"
   ],
-  "author": "Glenn Anderson",
+  "author": "Glenn Anderson (Modified slightly by Jeff)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Ondoher/symphony-api/issues"
+    "url": "https://github.com/jefflam/symphony-node-binding/issues"
   },
-  "homepage": "https://github.com/Ondoher/symphony-api#readme",
+  "homepage": "https://github.com/jefflam/symphony-node-binding#readme",
   "dependencies": {
     "q": "^1.4.1",
     "request": "^2.80.0",
