@@ -1,4 +1,4 @@
-# symphony-api
+# symphony-api  (forked and modified version by Teleo Studios)
 A node.js symphony api implementation
 
 # Installation
