@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jefflam/symphony-node-binding#readme",
   "dependencies": {
+    "https-proxy-agent": "^2.2.1",
     "q": "^1.4.1",
     "request": "^2.80.0",
     "url-join": "^1.1.0"
